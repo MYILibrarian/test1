@@ -9,7 +9,7 @@
     "github_org": "MYILibrarian",
     "is_private": false,
     "title": "Testing 1",
-    "description": "This is a text",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec fringilla arcu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas viverra purus metus, ac suscipit neque imperdiet quis. Proin ut fermentum ante. Suspendisse neque magna, pellentesque eget bibendum ut, vehicula ac mi. Quisque porta, neque et commodo venenatis, metus diam convallis nisl, at egestas felis leo quis lectus. Aenean diam quam, volutpat nec diam vel, condimentum laoreet diam. Donec massa lorem, pretium vel suscipit quis, sagittis id leo. Aenean ac nisl est. Donec sodales mattis dignissim. Curabitur sagittis consectetur sapien vel finibus. Quisque vel congue magna, vitae luctus ligula.",
     "language": "en",
     "slug": "test1",
     "creator": "MYILibrarian",
@@ -22,7 +22,7 @@
       "tags": []
     },
     "created_at": "2024-11-12T16:37:15.575Z",
-    "updated_at": "2024-11-12T16:52:09.380Z",
+    "updated_at": "2024-11-12T17:01:44.105Z",
     "generate_pages_site": true
   },
   "is_private": false
