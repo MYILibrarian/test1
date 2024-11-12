@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "6fd50085-04db-45eb-b161-d8bdbb6326cb": {
+      "label": "Pablo",
+      "is_offline": false,
+      "file_url": "https://youtu.be/ONT9fkrhpXs?si=KOrNZD2_0wDgikbs",
+      "duration": 992,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Testing 1",
+  "created_at": "2024-11-12T16:39:08.279Z",
+  "created_by": "MYILibrarian",
+  "updated_at": "2024-11-12T16:39:08.279Z",
+  "updated_by": "MYILibrarian"
+}
