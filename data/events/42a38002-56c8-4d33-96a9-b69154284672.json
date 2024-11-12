@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "0321e56e-81f6-4a78-934b-9f0b88cd4d94": {
+      "label": "Venceremos",
+      "is_offline": false,
+      "file_url": "https://ia802709.us.archive.org/2/items/rv-track-1/RV_Track%201.mp3",
+      "duration": 144,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "dsfsdfds"
+        }
+      ]
+    }
+  ],
+  "citation": "dsdfsds",
+  "item_type": "Audio",
+  "label": "Testing 2",
+  "created_at": "2024-11-12T17:32:20.860Z",
+  "created_by": "MYILibrarian",
+  "updated_at": "2024-11-12T17:32:20.860Z",
+  "updated_by": "MYILibrarian"
+}
