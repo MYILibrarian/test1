@@ -13,7 +13,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Test 1",
+          "tag": "great"
+        },
+        {
+          "category": "Test 2",
+          "tag": "hello"
+        }
+      ],
       "uuid": "74ff011c-529f-459d-8f73-25351522c3b6"
     }
   ],
