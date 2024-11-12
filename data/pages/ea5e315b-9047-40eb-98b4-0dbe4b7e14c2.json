@@ -4,10 +4,10 @@
   "created_by": "MYILibrarian",
   "title": "Testing 2",
   "slug": "testing-2-2",
-  "updated_at": "2024-11-12T17:32:20.994Z",
+  "updated_at": "2024-11-12T17:32:29.713Z",
   "updated_by": "MYILibrarian",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "42a38002-56c8-4d33-96a9-b69154284672"
   }
