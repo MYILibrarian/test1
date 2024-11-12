@@ -24,6 +24,27 @@
         }
       ],
       "uuid": "74ff011c-529f-459d-8f73-25351522c3b6"
+    },
+    {
+      "start_time": 600,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "fbfdjhdfjhbdfjhvbjfdhvbdjfhxvb"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Test 1",
+          "tag": "play"
+        }
+      ],
+      "uuid": "45caf46c-3a4b-4080-9b71-d6f4d7fc5557"
     }
   ],
   "set": "Default",
