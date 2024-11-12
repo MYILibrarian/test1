@@ -1,0 +1,50 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "wsrwytfdasyfdytafdytasfdytasfdytasfdytasfdytasfdytasf"
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "42a38002-56c8-4d33-96a9-b69154284672"
+      },
+      "event2": {
+        "uuid": "d6add09a-27bb-4285-bad9-4a8d850b2512"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "ytasxdyasytfsayt",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "ytasxdyasytfsayt",
+  "created_at": "2024-11-12T17:35:33.693Z",
+  "created_by": "MYILibrarian",
+  "updated_at": "2024-11-12T17:35:33.693Z",
+  "updated_by": "MYILibrarian"
+}
